@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.Sampson.DORTS"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>10 Academy Fellow</name>
+
+  <description>
+      An example for phonegap build docs.
+  </description>
+
+  <author href="https://build.phonegap.com" email="skadotjnr@gmail.com">
+      Hardeep Shoker
+  </author>
+
+</widget>
